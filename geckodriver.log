@@ -1,0 +1,278 @@
+1576144792104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2Tai7jf6vwaS"
+1576144792746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576144792747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576144792747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576144792747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576144795928	Marionette	INFO	Listening on port 41959
+1576144796025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576144988425	Marionette	INFO	Stopped listening on port 41959
+1576145025698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OGtrzp8sFynf"
+1576145026418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576145026418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576145026419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576145026419	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576145029523	Marionette	INFO	Listening on port 34893
+1576145029632	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4214, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576145141070	Marionette	INFO	Stopped listening on port 34893
+1576145259048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pIvSvBViOF61"
+1576145259622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576145259622	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576145259623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576145259623	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576145262860	Marionette	INFO	Listening on port 39445
+1576145262868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+[Parent 4580, Gecko_IOThread] WARNING: pipe error (55): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4580, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576145478150	Marionette	INFO	Stopped listening on port 39445
+1576145554058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bgdYdGAFGhWO"
+1576145554656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576145554656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576145554656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576145554656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576145557872	Marionette	INFO	Listening on port 41387
+1576145557987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4969, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4969, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576145678452	Marionette	INFO	Stopped listening on port 41387
+1576146144003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PziC06DBuIL3"
+1576146144645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576146144645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576146144645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576146144645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576146147843	Marionette	INFO	Listening on port 34855
+1576146147926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1576146251429	Marionette	INFO	Stopped listening on port 34855
+1576146876552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BABU1Bf98OSw"
+1576146877179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576146877179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576146877179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576146877179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576146880256	Marionette	INFO	Listening on port 45385
+1576146880268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6766, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+[Parent 6766, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576147268533	Marionette	INFO	Stopped listening on port 45385
+1576147277257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E0YZUliaU5jn"
+1576147277889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576147277889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576147277889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576147277889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576147281049	Marionette	INFO	Listening on port 43669
+1576147281076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576147382299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LrzDuzdv9QrR"
+1576147382840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576147382840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576147382840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576147382840	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576147386238	Marionette	INFO	Listening on port 38179
+1576147386319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+[Parent 7671, Gecko_IOThread] WARNING: pipe error (101): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+[Parent 7671, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576147716379	Marionette	INFO	Stopped listening on port 38179
+1576150723443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.075c65ozPVQk"
+1576150724042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576150724042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576150724042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576150724043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576150727090	Marionette	INFO	Listening on port 42395
+1576150727172	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576150761934	Marionette	INFO	Stopped listening on port 42395
+1576150778456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QDGUH6ea2tZw"
+1576150779066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576150779066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576150779067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576150779067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576150782148	Marionette	INFO	Listening on port 45923
+1576150782174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 11: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 11: TypeError: e.target.closest(...) is null
+[Parent 9723, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576150903614	Marionette	INFO	Stopped listening on port 45923
+1576150923801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WB533tm68uPS"
+1576150924416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576150924416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576150924416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576150924416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576150927601	Marionette	INFO	Listening on port 35655
+1576150927617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 11: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 11: TypeError: e.target.closest(...) is null
+[Parent 10007, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576150992624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cwLY3NFwc6cD"
+1576150993251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576150993251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576150993251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576150993251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576150996371	Marionette	INFO	Listening on port 42455
+1576150996441	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 11: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 11: TypeError: e.target.closest(...) is null
+[Parent 10262, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10262, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576151108656	Marionette	INFO	Stopped listening on port 42455
+1576151162743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BHC9Jl6cSmFU"
+1576151163538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576151163538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576151163538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576151163538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576151166549	Marionette	INFO	Listening on port 38569
+1576151166559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+[Parent 10538, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10538, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576151306926	Marionette	INFO	Stopped listening on port 38569
+1576151375314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IvCRe6WHLkum"
+1576151375858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576151375858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576151375858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576151375858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576151378920	Marionette	INFO	Listening on port 37689
+1576151378939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+[Parent 10866, Gecko_IOThread] WARNING: pipe error (79): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576151617281	Marionette	INFO	Stopped listening on port 37689
+1576152320337	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PYF0cy3CPRuW"
+1576152321019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576152321019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576152321019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576152321019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576152324451	Marionette	INFO	Listening on port 32905
+1576152324564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+[Parent 12257, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+[Parent 12257, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576153111107	Marionette	INFO	Stopped listening on port 32905
+1576153548665	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7i77DvLwRIPR"
+1576153549390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576153549390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576153549391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576153549391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576153552585	Marionette	INFO	Listening on port 38461
+1576153552687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+[Parent 13730, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.log: "RemoteSettingsWorker error: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code."
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+JavaScript error: resource://services-common/kinto-offline-client.js, line 603: Error: IndexedDB getLastModified() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576153554735	Marionette	INFO	Stopped listening on port 38461
+1576153573264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V2xdXyurdgHV"
+1576153573949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576153573949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576153573949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576153573949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576153577183	Marionette	INFO	Listening on port 33087
+1576153577291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+[Parent 13924, Gecko_IOThread] WARNING: pipe error (108): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13924, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 13924, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576154175402	Marionette	INFO	Stopped listening on port 33087
+1576154621221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.S4lvLdTR2zhK"
+1576154621801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576154621802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576154621802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576154621802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576154625128	Marionette	INFO	Listening on port 37463
+1576154625136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+[Parent 14654, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14654, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1576155010402	Marionette	INFO	Stopped listening on port 37463
+1576155091398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SlUuFqr8SVJq"
+1576155092010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576155092010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576155092010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576155092010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576155095395	Marionette	INFO	Listening on port 44719
+1576155095422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+[Parent 15406, Gecko_IOThread] WARNING: pipe error (133): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576155145235	Marionette	INFO	Stopped listening on port 44719
+1576155218396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rUX35AlpkF7z"
+1576155219218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576155219218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576155219218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576155219219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576155222855	Marionette	INFO	Listening on port 34141
+1576155222916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
+JavaScript error: https://cdn.brightlocal.com/wp-content/cache/autoptimize/js/autoptimize_single_f6fb19a16f5fa414e058292144b265c6.js, line 10: TypeError: e.target.closest(...) is null
